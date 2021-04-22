@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://rao_user:aqibnali@97@app.yhnv6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "SecretKey": "Secret"
+}
